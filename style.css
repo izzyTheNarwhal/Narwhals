@@ -1,0 +1,44 @@
+body {
+  font-family: indie Flower;
+  background: #c2e59c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #c2e59c , #64b3f4); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #c2e59c , #64b3f4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */       
+}
+
+img {
+  max-width: 100%;
+  width: 18.5%;
+  height: 33%;
+  border: 2px blue dashed;  
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  color: yellow;
+}
+
+h3 {
+  color: magenta;
+}
+
+.container {
+  max-width: 100%;
+  border: 2px blue solid;
+}
+
+span {
+  color: cyan;
+}
+
+#happy {
+  color: lime;
+}
+
+h2{
+  color: red;
+}
+
+h4{
+  color: violet;
+}
